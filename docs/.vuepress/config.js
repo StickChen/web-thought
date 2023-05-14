@@ -1,7 +1,7 @@
 module.exports = {
   // title: "Vue3源码解析 - vue中文社区",
-  title: "web前端面试 - 面试官系列",
-  description: "web前端面试,vue面试题,react面试题,js面试题,大厂面试题,阿里面试题,京东面试题",
+  title: "web前端思考 - 思考官系列",
+  description: "web前端思考,vue思考题,react思考题,js思考题,大厂思考题,阿里思考题,京东思考题",
   base: '/interview/',
   head: [
     ["link", { rel: "icon", href: "/onepunch.jpeg" }],
@@ -10,7 +10,7 @@ module.exports = {
       {
         name: "keywords",
         content:
-          "web前端面试,vue面试题,react面试题,js面试题,大厂面试题,阿里面试题,京东面试题",
+          "web前端思考,vue思考题,react思考题,js思考题,大厂思考题,阿里思考题,京东思考题",
       },
     ],
     // [
